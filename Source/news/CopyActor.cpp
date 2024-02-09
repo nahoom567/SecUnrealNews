@@ -16,7 +16,6 @@ void ACopyActor::BeginPlay()
 {
 	Super::BeginPlay();
 	Canvas = NewObject<UCanvas>();
-	UKismetSystemLibrary::PrintString(this, "hello world");
 }
 
 // Called every frame

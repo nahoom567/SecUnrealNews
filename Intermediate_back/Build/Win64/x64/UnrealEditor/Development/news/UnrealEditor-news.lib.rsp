@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-news.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Itai\Documents\Unreal Projects\news\Intermediate\Build\Win64\x64\newsEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\Itai\Documents\Unreal Projects\news\Intermediate\Build\Win64\x64\UnrealEditor\Development\news\CopyActor.gen.cpp.obj"
+"C:\Users\Itai\Documents\Unreal Projects\news\Intermediate\Build\Win64\x64\UnrealEditor\Development\news\CopyPixels.gen.cpp.obj"
+"C:\Users\Itai\Documents\Unreal Projects\news\Intermediate\Build\Win64\x64\UnrealEditor\Development\news\MyHUD.gen.cpp.obj"
+"C:\Users\Itai\Documents\Unreal Projects\news\Intermediate\Build\Win64\x64\UnrealEditor\Development\news\news.init.gen.cpp.obj"
+"C:\Users\Itai\Documents\Unreal Projects\news\Intermediate\Build\Win64\x64\UnrealEditor\Development\news\newsCharacter.gen.cpp.obj"
+"C:\Users\Itai\Documents\Unreal Projects\news\Intermediate\Build\Win64\x64\UnrealEditor\Development\news\newsGameMode.gen.cpp.obj"
+"C:\Users\Itai\Documents\Unreal Projects\news\Intermediate\Build\Win64\x64\UnrealEditor\Development\news\CopyActor.cpp.obj"
+"C:\Users\Itai\Documents\Unreal Projects\news\Intermediate\Build\Win64\x64\UnrealEditor\Development\news\CopyPixels.cpp.obj"
+"C:\Users\Itai\Documents\Unreal Projects\news\Intermediate\Build\Win64\x64\UnrealEditor\Development\news\MyHUD.cpp.obj"
+"C:\Users\Itai\Documents\Unreal Projects\news\Intermediate\Build\Win64\x64\UnrealEditor\Development\news\news.cpp.obj"
+"C:\Users\Itai\Documents\Unreal Projects\news\Intermediate\Build\Win64\x64\UnrealEditor\Development\news\newsCharacter.cpp.obj"
+"C:\Users\Itai\Documents\Unreal Projects\news\Intermediate\Build\Win64\x64\UnrealEditor\Development\news\newsGameMode.cpp.obj"
+"C:\Users\Itai\Documents\Unreal Projects\news\Intermediate\Build\Win64\x64\UnrealEditor\Development\news\Default.rc2.res"
+/OUT:"C:\Users\Itai\Documents\Unreal Projects\news\Intermediate\Build\Win64\x64\UnrealEditor\Development\news\UnrealEditor-news.lib"

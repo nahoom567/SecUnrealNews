@@ -1,0 +1,23 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Itai\\Documents\\Unreal Projects\\news\\Source\\news\\news.Build.cs",
+		"C:\\Users\\Itai\\Documents\\Unreal Projects\\news\\Plugins\\OWLLivestreamingToolkit\\Source\\LivestreamingToolkitEditor\\LivestreamingToolkitEditor.Build.cs",
+		"C:\\Users\\Itai\\Documents\\Unreal Projects\\news\\Plugins\\OWLLivestreamingToolkit\\Source\\LivestreamingToolkitShaders\\LivestreamingToolkitShaders.Build.cs",
+		"C:\\Users\\Itai\\Documents\\Unreal Projects\\news\\Plugins\\OWLLivestreamingToolkit\\Source\\LivestreamingToolkit\\LivestreamingToolkit.Build.cs",
+		"C:\\Users\\Itai\\Documents\\Unreal Projects\\news\\Plugins\\OWLLivestreamingToolkit\\Source\\OWL360Camera\\OWL360Camera.Build.cs",
+		"C:\\Users\\Itai\\Documents\\Unreal Projects\\news\\Plugins\\OWLLivestreamingToolkit\\Source\\OWLCamera\\OWLCamera.Build.cs",
+		"C:\\Users\\Itai\\Documents\\Unreal Projects\\news\\Plugins\\OWLLivestreamingToolkit\\Source\\OWLComposure\\OWLComposure.Build.cs",
+		"C:\\Users\\Itai\\Documents\\Unreal Projects\\news\\Plugins\\OWLLivestreamingToolkit\\Source\\OWLMedia\\OWLMedia.Build.cs",
+		"C:\\Users\\Itai\\Documents\\Unreal Projects\\news\\Plugins\\OWLLivestreamingToolkit\\Source\\OWLNDI\\OWLNDI.Build.cs",
+		"C:\\Users\\Itai\\Documents\\Unreal Projects\\news\\Plugins\\OWLLivestreamingToolkit\\Source\\OWLScreenCapture\\OWLScreenCapture.Build.cs",
+		"C:\\Users\\Itai\\Documents\\Unreal Projects\\news\\Plugins\\OWLLivestreamingToolkit\\Source\\OWLSpout\\OWLSpout.Build.cs",
+		"C:\\Users\\Itai\\Documents\\Unreal Projects\\news\\Plugins\\OWLLivestreamingToolkit\\Source\\OWLVirtualWebcam\\OWLVirtualWebcam.Build.cs",
+		"C:\\Users\\Itai\\Documents\\Unreal Projects\\news\\Plugins\\OWLLivestreamingToolkit\\Source\\ThirdParty\\FFmpeg\\FFmpeg.Build.cs",
+		"C:\\Users\\Itai\\Documents\\Unreal Projects\\news\\Plugins\\OWLLivestreamingToolkit\\Source\\ThirdParty\\NDIRaw\\NDIRaw.Build.cs",
+		"C:\\Users\\Itai\\Documents\\Unreal Projects\\news\\Plugins\\OWLLivestreamingToolkit\\Source\\ThirdParty\\Spout\\Spout.Build.cs",
+		"C:\\Users\\Itai\\Documents\\Unreal Projects\\news\\Plugins\\OWLLivestreamingToolkit\\Source\\ThirdParty\\VirtualWebcam\\VirtualWebcam.Build.cs",
+		"C:\\Users\\Itai\\Documents\\Unreal Projects\\news\\Source\\news.Target.cs",
+		"C:\\Users\\Itai\\Documents\\Unreal Projects\\news\\Source\\newsEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}

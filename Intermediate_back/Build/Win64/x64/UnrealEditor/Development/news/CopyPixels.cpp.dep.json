@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\itai\\documents\\unreal projects\\news\\source\\news\\copypixels.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\itai\\documents\\unreal projects\\news\\intermediate\\build\\win64\\x64\\newseditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\itai\\documents\\unreal projects\\news\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\news\\definitions.news.h",
+            "c:\\users\\itai\\documents\\unreal projects\\news\\source\\news\\copypixels.h",
+            "c:\\users\\itai\\documents\\unreal projects\\news\\intermediate\\build\\win64\\unrealeditor\\inc\\news\\uht\\copypixels.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

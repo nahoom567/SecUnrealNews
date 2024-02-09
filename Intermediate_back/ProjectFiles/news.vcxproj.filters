@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\news.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\news.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\newsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\news">
+      <UniqueIdentifier>{07BDFF33-2C53-3AF4-86A2-708B7C797E03}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\news\CopyActor.cpp">
+      <Filter>Source\news</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\news\CopyActor.h">
+      <Filter>Source\news</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\news\CopyPixels.cpp">
+      <Filter>Source\news</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\news\CopyPixels.h">
+      <Filter>Source\news</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\news\MyHUD.cpp">
+      <Filter>Source\news</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\news\MyHUD.h">
+      <Filter>Source\news</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\news\news.Build.cs">
+      <Filter>Source\news</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\news\news.cpp">
+      <Filter>Source\news</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\news\news.h">
+      <Filter>Source\news</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\news\newsCharacter.cpp">
+      <Filter>Source\news</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\news\newsCharacter.h">
+      <Filter>Source\news</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\news\newsGameMode.cpp">
+      <Filter>Source\news</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\news\newsGameMode.h">
+      <Filter>Source\news</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

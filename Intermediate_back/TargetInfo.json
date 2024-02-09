@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "news",
+			"Path": "..\\Source\\news.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "newsEditor",
+			"Path": "..\\Source\\newsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
