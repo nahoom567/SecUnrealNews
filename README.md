@@ -20,11 +20,13 @@ This will consist of the Epic Games launcher, Unreal Engine 5.3.1, extensions, t
 # Prerequisites 
 before even trying to deal with the git itself follow this instructions:
 1. download the Epic Games launcher - https://store.epicgames.com/en-US/download
-2.0. download Unreal Engine 5.3.1 with the following installation options -
-   2.1. (https://github.com/nahoom567/SecUnrealNews/assets/128990420/6c009e57-c756-4721-b759-9e56a6761fe0) - an image url of the basic options that needs to be to   marked
-   2.2. (https://github.com/nahoom567/SecUnrealNews/assets/128990420/b40b4f59-4a08-488a-bfa1-149eb6e8f9ce) - choose the Target Platform relevant to you
-3. download Git Large File Storage (LFS) - installation: https://git-lfs.com/
-4. I recommend to download GitHub Desktop in order to be able to view the organized files (such a way is very common when dealing with Unreal Engine projects).
+2. download Unreal Engine 5.3.1 with the following installation options -
+   (https://github.com/nahoom567/SecUnrealNews/assets/128990420/6c009e57-c756-4721-b759-9e56a6761fe0) - an image url of the basic options that needs to be to   marked
+   
+   (https://github.com/nahoom567/SecUnrealNews/assets/128990420/b40b4f59-4a08-488a-bfa1-149eb6e8f9ce) - choose the Target Platform relevant to you
+   
+4. download Git Large File Storage (LFS) - installation: https://git-lfs.com/
+5. I recommend to download GitHub Desktop in order to be able to view the organized files (such a way is very common when dealing with Unreal Engine projects).
 
 # Installation
 after taking care of the prerequisites follow this instructions:
