@@ -13,6 +13,8 @@ On top of each final Frame Buffer that is played out, the first 20 lines of pixe
 This SRT HD50i streaming is then streamed to SRT Live Video Streaming Server.
 
 # Notes
+The project is inside of the master branch.
+
 Going through the project by only looking at the visual studio sln will not do justice to the project as the most complex and important parts are inside of the Unreal Engine 5 environment.
 
 The most complext parts of the project are the way the blueprints are made and how different blueprints use other blueprints in order to make up the final project.
