@@ -13,8 +13,19 @@ On top of each final Frame Buffer that is played out, the first 20 lines of pixe
 This SRT HD50i streaming is then streamed to SRT Live Video Streaming Server.
 
 # Notes
+Going through the project by only looking at the visual studio sln will not do justice to the project as the most complex and important parts are inside of the Unreal Engine 5 environment.
+
+The most complext parts of the project are the way the blueprints are made and how different blueprints use other blueprints in order to make up the final project.
+
+This blueprints are much more complicated to handle and operate together than standard C++ classes.
+The blueprints are not only operating with C++ components like functions, macros , variables, etc... they are also using Unreal Engine components such as viewport, events, widgets, meshes, materiales, textures, render targets, levels, and so much more.
+This is without even bringing up that the C++ components like functions, macros, variables include not only the C++ version of them but the unreal engine extensions as well, or mentioning the Third Party Libaries, Media, World setting and so on.
+
+Looking only in the visual studio sln won't show even 1/10 of the project and does not represent the complexity of the project.
+Without installing the Unreal Engine 5 environment there is no point in viewing the project in the first place.
+
 Such a project requires a lot of disk space and time to download and run.
-In total this project will require you to download around ~135 GB (yes 135 GB not MB) and a couple of hours to fully take care of everything.
+In total this project will require you to download around ~135 GB (yes 135 GB not MB) and a lot of time to fully take care of everything.
 This will consist of the Epic Games launcher, Unreal Engine 5.3.1, extensions, third party libaries, Git Large File Storage (LFS) and a lot more.
 
 # Prerequisites 
