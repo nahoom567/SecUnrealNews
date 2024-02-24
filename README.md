@@ -28,6 +28,10 @@ Such a project requires a lot of disk space and time to download and run.
 In total this project will require you to download around ~135 GB (yes 135 GB not MB) and a lot of time to fully take care of everything.
 This will consist of the Epic Games launcher, Unreal Engine 5.3.1, extensions, third party libaries, Git Large File Storage (LFS) and a lot more.
 
+If you don't have the space on the PC or the time to install everything, in order to get a basic idea of the project, you can install Unreal Engine Viewer in order to extract assets from Unreal Engine and view them outside of the engine environment. Then you can look at the assests inside the Content Folder with .uassest in order to understand the Core of the project. 
+
+Unreal Engine Viewer - https://www.gildor.org/en/projects/umodel
+
 # Prerequisites 
 before even trying to deal with the git itself follow this instructions:
 1. download the Epic Games launcher - https://store.epicgames.com/en-US/download
