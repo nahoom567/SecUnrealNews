@@ -55,7 +55,7 @@ after taking care of the prerequisites follow this instructions:
    You can do it by looking for Off World Live in the top left side of the screen in the opened unreal engine. - image to help you
    https://github.com/nahoom567/SecUnrealNews/assets/128990420/ff7a6b5a-87e3-443e-a05c-a4fd9ddd0f5a
    From there, under account press log in. This will take you to the login screen of the plugin. 
-   the email of my account is walksalesoo@gmail.com and password is A327i901617
+   the email of my account is walksalesoo@gmail.com and password is A327i901617 (obviously this is not my usual password)
 3. Right now, there is a problem with my SRT Server, so in order to view the streaming you will need to use an online SRT server, I recommend using castr.
    Connect the server to the OWLMediaOutput. to do this press F4 to open OWLMediaOutput that you can access through the world outliner - an image showing it:
    (https://github.com/nahoom567/SecUnrealNews/assets/128990420/2a9b7e96-fa2e-4237-b1f7-75f5c67e4c15)
