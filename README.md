@@ -35,7 +35,7 @@ If you don't have the space on the PC or the time to install everything, in orde
 Unreal Engine Viewer - https://www.gildor.org/en/projects/umodel
 
 # Prerequisites 
-before even trying to deal with the git itself follow this instructions:
+before dealing with the git itself follow this instructions:
 1. download the Epic Games launcher - https://store.epicgames.com/en-US/download
 2. download Unreal Engine 5.3.1 with the following installation options -
    (https://github.com/nahoom567/SecUnrealNews/assets/128990420/6c009e57-c756-4721-b759-9e56a6761fe0) - an image url of the basic options that needs to be to   marked
